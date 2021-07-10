@@ -1,2 +1,2 @@
 # C
-Un petit programme en C
+Un petit programme en langage C
